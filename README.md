@@ -216,4 +216,8 @@ activity.
                 android:value=".MainActivity" />
         </activity>
 ```
-
+## Screenshots
+### Main activity
+![](main_activity.png)
+### Second activity
+![](second_activity.png)
